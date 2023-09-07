@@ -1,0 +1,7 @@
+.box{
+   border: 2px solid salmon;
+   margin: 15px;
+   padding: 10px;
+   border-radius: 12px;
+   background-color: rgba(128, 128, 128, 0.314);
+}
